@@ -1,0 +1,39 @@
+body{
+    background-image: url(img/slashes2.png);
+}
+header{
+    background-color:rgb(39, 39, 39);
+    height: 100%;
+    width: 100%;
+    clear: both;
+    position:relative;
+}
+section{
+    text-align: center;
+    width: 79%;
+    background: rgb(53, 53, 53);
+    float: left;
+    overflow: auto;
+    padding-bottom: 60px;
+    padding-top: 30px;
+}
+aside{
+    position: center; 
+    width: 19%;
+    float: right;
+    background-color: rgb(39, 39, 39);
+    border: 1px;
+}
+footer{
+    position:relative;
+    margin-top: -50px;
+    height: 40px;
+    padding:5px opx;
+    clear: both;
+    background: #110269;
+    text-align: center;
+    color: #fff;
+}
+nav{
+    background-color: rgb(0, 0, 0);
+}
